@@ -1,6 +1,6 @@
 Quickart is a full-stack E-Commerce website built using Next.js, Spring Boot, and PostgreSQL. It provides secure authentication, product management, cart functionality, and order processing.
 
-🚀 Tech Stack
+Tech Stack
 
 Frontend: Next.js
 
@@ -8,7 +8,7 @@ Backend: Spring Boot (REST APIs, JWT Authentication)
 
 Database: PostgreSQL
 
-✨ Features
+ Features
 
 User Registration & Login
 
